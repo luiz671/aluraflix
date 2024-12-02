@@ -1,8 +1,9 @@
 body {
-    color: purple;
-    background: pink;
+    color: rgb(0, 128, 28);
+    background: blueviolet;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
+    
     margin-bottom: 100px;
 }
 
